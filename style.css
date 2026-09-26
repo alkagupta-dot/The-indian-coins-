@@ -1,7 +1,7 @@
 /* ==================== ROOT VARIABLES & THEME ==================== */
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
 
-:root {
+:root
     --bg-primary: #0a0c10;
     --bg-secondary: #121620;
     --bg-card: #1a202c;
